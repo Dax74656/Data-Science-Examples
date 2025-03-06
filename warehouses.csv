@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state
+1,Warehouse_1,New York,IL
+2,Warehouse_2,Houston,IL
+3,Warehouse_3,Miami,TX
+4,Warehouse_4,Houston,CA
+5,Warehouse_5,Miami,CA
+6,Warehouse_6,Miami,FL
+7,Warehouse_7,Chicago,NY
+8,Warehouse_8,Miami,FL
+9,Warehouse_9,Houston,TX
+10,Warehouse_10,Miami,TX

@@ -1,0 +1,1001 @@
+order_id,delivery_date,status
+1,2024-01-06,Pending
+2,2024-01-10,In Transit
+3,2024-01-10,In Transit
+4,2024-01-13,In Transit
+5,2024-01-13,Delivered
+6,2024-01-08,Pending
+7,2024-01-11,Delivered
+8,2024-01-14,Delivered
+9,2024-01-11,Delivered
+10,2024-01-17,In Transit
+11,2024-01-14,In Transit
+12,2024-01-15,Delivered
+13,2024-01-15,Delivered
+14,2024-01-22,In Transit
+15,2024-01-21,Delivered
+16,2024-01-17,In Transit
+17,2024-01-18,Pending
+18,2024-01-25,Delivered
+19,2024-01-27,Delivered
+20,2024-01-25,In Transit
+21,2024-01-26,In Transit
+22,2024-01-26,Delivered
+23,2024-01-29,Pending
+24,2024-01-30,Delivered
+25,2024-01-28,Delivered
+26,2024-02-04,In Transit
+27,2024-02-03,In Transit
+28,2024-01-29,Delivered
+29,2024-02-05,In Transit
+30,2024-02-04,Delivered
+31,2024-02-05,Delivered
+32,2024-02-03,Delivered
+33,2024-02-06,In Transit
+34,2024-02-09,Delivered
+35,2024-02-11,Delivered
+36,2024-02-10,Delivered
+37,2024-02-15,In Transit
+38,2024-02-10,Delivered
+39,2024-02-09,In Transit
+40,2024-02-13,Delivered
+41,2024-02-19,Delivered
+42,2024-02-15,Delivered
+43,2024-02-14,In Transit
+44,2024-02-18,Pending
+45,2024-02-17,Delivered
+46,2024-02-24,Delivered
+47,2024-02-20,Delivered
+48,2024-02-23,Delivered
+49,2024-02-20,Delivered
+50,2024-02-25,Delivered
+51,2024-02-23,Delivered
+52,2024-03-01,Delivered
+53,2024-02-24,Delivered
+54,2024-03-03,In Transit
+55,2024-02-29,Delivered
+56,2024-03-04,Delivered
+57,2024-02-28,In Transit
+58,2024-03-04,Delivered
+59,2024-03-02,Delivered
+60,2024-03-05,Delivered
+61,2024-03-09,Delivered
+62,2024-03-03,Delivered
+63,2024-03-08,Delivered
+64,2024-03-07,Pending
+65,2024-03-09,Delivered
+66,2024-03-08,Delivered
+67,2024-03-16,Delivered
+68,2024-03-11,Delivered
+69,2024-03-11,Delivered
+70,2024-03-19,In Transit
+71,2024-03-18,Delivered
+72,2024-03-18,Delivered
+73,2024-03-14,Delivered
+74,2024-03-19,Delivered
+75,2024-03-18,Pending
+76,2024-03-17,Delivered
+77,2024-03-21,Delivered
+78,2024-03-20,Delivered
+79,2024-03-21,Pending
+80,2024-03-23,Delivered
+81,2024-03-29,Delivered
+82,2024-03-30,In Transit
+83,2024-03-30,In Transit
+84,2024-03-30,Delivered
+85,2024-04-03,Delivered
+86,2024-03-30,Delivered
+87,2024-03-28,Delivered
+88,2024-04-05,Delivered
+89,2024-04-05,Delivered
+90,2024-04-06,Delivered
+91,2024-04-03,Delivered
+92,2024-04-05,Delivered
+93,2024-04-11,Pending
+94,2024-04-09,Delivered
+95,2024-04-09,Delivered
+96,2024-04-08,Delivered
+97,2024-04-15,Pending
+98,2024-04-12,Delivered
+99,2024-04-13,Delivered
+100,2024-04-13,Delivered
+101,2024-04-14,Delivered
+102,2024-04-12,Delivered
+103,2024-04-19,Delivered
+104,2024-04-22,Delivered
+105,2024-04-17,Pending
+106,2024-04-17,Delivered
+107,2024-04-19,Delivered
+108,2024-04-18,In Transit
+109,2024-04-24,Delivered
+110,2024-04-26,Delivered
+111,2024-04-22,Delivered
+112,2024-04-29,Delivered
+113,2024-04-28,In Transit
+114,2024-04-27,Pending
+115,2024-04-29,Delivered
+116,2024-05-03,Delivered
+117,2024-04-29,Pending
+118,2024-04-30,In Transit
+119,2024-05-02,In Transit
+120,2024-04-30,Delivered
+121,2024-05-09,Delivered
+122,2024-05-09,In Transit
+123,2024-05-10,Delivered
+124,2024-05-09,Delivered
+125,2024-05-11,Delivered
+126,2024-05-11,Delivered
+127,2024-05-15,Delivered
+128,2024-05-10,Delivered
+129,2024-05-11,Pending
+130,2024-05-12,Delivered
+131,2024-05-13,In Transit
+132,2024-05-20,Delivered
+133,2024-05-16,Delivered
+134,2024-05-20,Pending
+135,2024-05-23,Delivered
+136,2024-05-22,Delivered
+137,2024-05-25,Delivered
+138,2024-05-20,Delivered
+139,2024-05-22,In Transit
+140,2024-05-27,Pending
+141,2024-05-26,Delivered
+142,2024-05-26,Delivered
+143,2024-05-26,Delivered
+144,2024-05-31,In Transit
+145,2024-05-25,Delivered
+146,2024-06-03,Delivered
+147,2024-05-27,Delivered
+148,2024-06-04,Delivered
+149,2024-06-01,Delivered
+150,2024-06-07,In Transit
+151,2024-06-04,Delivered
+152,2024-06-03,Delivered
+153,2024-06-10,In Transit
+154,2024-06-11,In Transit
+155,2024-06-07,Delivered
+156,2024-06-08,Delivered
+157,2024-06-13,Delivered
+158,2024-06-08,Delivered
+159,2024-06-16,Delivered
+160,2024-06-14,Delivered
+161,2024-06-18,Delivered
+162,2024-06-18,In Transit
+163,2024-06-18,Delivered
+164,2024-06-13,Delivered
+165,2024-06-16,Delivered
+166,2024-06-16,Pending
+167,2024-06-20,In Transit
+168,2024-06-21,In Transit
+169,2024-06-22,In Transit
+170,2024-06-22,Pending
+171,2024-06-24,Delivered
+172,2024-06-23,Delivered
+173,2024-06-22,Delivered
+174,2024-06-27,In Transit
+175,2024-07-02,In Transit
+176,2024-07-03,Delivered
+177,2024-06-29,Delivered
+178,2024-06-29,Delivered
+179,2024-06-28,Pending
+180,2024-06-30,Delivered
+181,2024-07-07,Delivered
+182,2024-07-01,Delivered
+183,2024-07-09,Delivered
+184,2024-07-09,In Transit
+185,2024-07-11,Delivered
+186,2024-07-10,In Transit
+187,2024-07-14,Delivered
+188,2024-07-09,Delivered
+189,2024-07-11,Delivered
+190,2024-07-14,In Transit
+191,2024-07-17,Delivered
+192,2024-07-15,Delivered
+193,2024-07-14,Delivered
+194,2024-07-18,Pending
+195,2024-07-17,Delivered
+196,2024-07-23,In Transit
+197,2024-07-18,Delivered
+198,2024-07-20,Delivered
+199,2024-07-24,Delivered
+200,2024-07-25,Delivered
+201,2024-07-23,Delivered
+202,2024-07-26,Delivered
+203,2024-07-24,Delivered
+204,2024-07-28,Pending
+205,2024-07-25,Delivered
+206,2024-08-01,In Transit
+207,2024-07-27,Delivered
+208,2024-08-02,Delivered
+209,2024-08-05,Delivered
+210,2024-07-29,Delivered
+211,2024-08-06,Delivered
+212,2024-08-06,Delivered
+213,2024-08-06,Delivered
+214,2024-08-07,Delivered
+215,2024-08-08,In Transit
+216,2024-08-12,In Transit
+217,2024-08-06,Delivered
+218,2024-08-06,Delivered
+219,2024-08-12,Delivered
+220,2024-08-15,Delivered
+221,2024-08-11,Delivered
+222,2024-08-10,Delivered
+223,2024-08-19,Delivered
+224,2024-08-12,Delivered
+225,2024-08-15,Delivered
+226,2024-08-21,In Transit
+227,2024-08-17,In Transit
+228,2024-08-19,Delivered
+229,2024-08-24,Pending
+230,2024-08-18,Pending
+231,2024-08-24,Delivered
+232,2024-08-20,Delivered
+233,2024-08-21,Delivered
+234,2024-08-29,Pending
+235,2024-08-26,In Transit
+236,2024-08-24,Delivered
+237,2024-08-31,Delivered
+238,2024-08-30,Delivered
+239,2024-08-31,Delivered
+240,2024-08-28,Delivered
+241,2024-09-03,In Transit
+242,2024-09-07,Delivered
+243,2024-09-08,In Transit
+244,2024-09-08,In Transit
+245,2024-09-06,In Transit
+246,2024-09-03,Delivered
+247,2024-09-12,Delivered
+248,2024-09-05,Delivered
+249,2024-09-13,Delivered
+250,2024-09-11,Delivered
+251,2024-09-10,Delivered
+252,2024-09-15,Delivered
+253,2024-09-16,Delivered
+254,2024-09-19,Delivered
+255,2024-09-18,Delivered
+256,2024-09-15,In Transit
+257,2024-09-14,In Transit
+258,2024-09-22,Delivered
+259,2024-09-18,Delivered
+260,2024-09-24,Delivered
+261,2024-09-25,Delivered
+262,2024-09-23,Delivered
+263,2024-09-20,In Transit
+264,2024-09-27,Delivered
+265,2024-09-26,Delivered
+266,2024-09-30,Delivered
+267,2024-10-02,Delivered
+268,2024-10-01,Delivered
+269,2024-10-02,Delivered
+270,2024-09-27,Delivered
+271,2024-10-01,Delivered
+272,2024-09-30,Delivered
+273,2024-10-01,Delivered
+274,2024-10-02,Delivered
+275,2024-10-05,Pending
+276,2024-10-03,Delivered
+277,2024-10-07,Delivered
+278,2024-10-06,Delivered
+279,2024-10-10,Delivered
+280,2024-10-09,Delivered
+281,2024-10-15,Delivered
+282,2024-10-12,In Transit
+283,2024-10-10,Delivered
+284,2024-10-11,Delivered
+285,2024-10-14,Delivered
+286,2024-10-21,In Transit
+287,2024-10-20,Delivered
+288,2024-10-16,Delivered
+289,2024-10-24,Delivered
+290,2024-10-18,Delivered
+291,2024-10-20,Delivered
+292,2024-10-20,Delivered
+293,2024-10-22,Delivered
+294,2024-10-26,Delivered
+295,2024-10-30,Delivered
+296,2024-10-31,Delivered
+297,2024-10-30,In Transit
+298,2024-10-27,Delivered
+299,2024-10-29,Delivered
+300,2024-11-01,Delivered
+301,2024-11-01,Delivered
+302,2024-10-30,In Transit
+303,2024-11-04,Delivered
+304,2024-11-02,Delivered
+305,2024-11-08,Delivered
+306,2024-11-03,Delivered
+307,2024-11-03,Delivered
+308,2024-11-12,Delivered
+309,2024-11-07,Delivered
+310,2024-11-06,In Transit
+311,2024-11-13,Delivered
+312,2024-11-12,In Transit
+313,2024-11-13,In Transit
+314,2024-11-10,In Transit
+315,2024-11-19,Delivered
+316,2024-11-18,Delivered
+317,2024-11-20,In Transit
+318,2024-11-22,Delivered
+319,2024-11-20,Delivered
+320,2024-11-20,In Transit
+321,2024-11-22,In Transit
+322,2024-11-19,Delivered
+323,2024-11-22,Delivered
+324,2024-11-22,Delivered
+325,2024-11-27,In Transit
+326,2024-11-30,Pending
+327,2024-11-27,Delivered
+328,2024-11-29,Delivered
+329,2024-11-26,In Transit
+330,2024-11-28,Delivered
+331,2024-11-29,Delivered
+332,2024-12-06,Pending
+333,2024-12-05,Delivered
+334,2024-12-07,Delivered
+335,2024-12-09,Delivered
+336,2024-12-07,Delivered
+337,2024-12-06,In Transit
+338,2024-12-04,Delivered
+339,2024-12-12,Pending
+340,2024-12-12,Delivered
+341,2024-12-08,Delivered
+342,2024-12-15,Delivered
+343,2024-12-13,Delivered
+344,2024-12-16,Delivered
+345,2024-12-14,Delivered
+346,2024-12-16,Delivered
+347,2024-12-20,Delivered
+348,2024-12-14,In Transit
+349,2024-12-15,Delivered
+350,2024-12-19,In Transit
+351,2024-12-19,Delivered
+352,2024-12-19,Delivered
+353,2024-12-21,Delivered
+354,2024-12-20,Delivered
+355,2024-12-21,Delivered
+356,2024-12-27,In Transit
+357,2024-12-27,In Transit
+358,2024-12-31,Delivered
+359,2024-12-26,Delivered
+360,2024-12-29,In Transit
+361,2025-01-03,Delivered
+362,2025-01-02,In Transit
+363,2024-12-29,In Transit
+364,2025-01-02,In Transit
+365,2024-12-31,Delivered
+366,2025-01-02,Delivered
+367,2025-01-06,Delivered
+368,2025-01-10,Delivered
+369,2025-01-11,In Transit
+370,2025-01-07,Delivered
+371,2025-01-09,Delivered
+372,2025-01-12,In Transit
+373,2025-01-10,In Transit
+374,2025-01-10,Pending
+375,2025-01-15,In Transit
+376,2025-01-15,Delivered
+377,2025-01-16,Delivered
+378,2025-01-17,In Transit
+379,2025-01-18,Delivered
+380,2025-01-17,Delivered
+381,2025-01-22,Delivered
+382,2025-01-22,Delivered
+383,2025-01-21,In Transit
+384,2025-01-20,Delivered
+385,2025-01-28,Delivered
+386,2025-01-21,Delivered
+387,2025-01-25,Delivered
+388,2025-01-23,Delivered
+389,2025-01-29,Delivered
+390,2025-01-28,Pending
+391,2025-01-30,Delivered
+392,2025-01-31,Delivered
+393,2025-02-05,Delivered
+394,2025-01-29,Delivered
+395,2025-01-31,Delivered
+396,2025-02-05,In Transit
+397,2025-02-05,Delivered
+398,2025-02-08,In Transit
+399,2025-02-05,Delivered
+400,2025-02-06,Delivered
+401,2025-02-06,Delivered
+402,2025-02-08,Pending
+403,2025-02-07,Delivered
+404,2025-02-12,Delivered
+405,2025-02-13,Delivered
+406,2025-02-16,Delivered
+407,2025-02-14,Delivered
+408,2025-02-14,Delivered
+409,2025-02-13,Delivered
+410,2025-02-21,Delivered
+411,2025-02-17,Delivered
+412,2025-02-17,In Transit
+413,2025-02-20,In Transit
+414,2025-02-20,In Transit
+415,2025-02-19,Delivered
+416,2025-02-22,Delivered
+417,2025-02-22,Delivered
+418,2025-03-01,Delivered
+419,2025-02-28,Delivered
+420,2025-03-04,Delivered
+421,2025-03-04,Delivered
+422,2025-02-28,Delivered
+423,2025-03-03,In Transit
+424,2025-03-06,Delivered
+425,2025-03-05,Delivered
+426,2025-03-09,Delivered
+427,2025-03-07,Delivered
+428,2025-03-04,Delivered
+429,2025-03-09,In Transit
+430,2025-03-09,In Transit
+431,2025-03-12,Delivered
+432,2025-03-10,Pending
+433,2025-03-13,Pending
+434,2025-03-11,In Transit
+435,2025-03-16,In Transit
+436,2025-03-17,Delivered
+437,2025-03-17,Delivered
+438,2025-03-19,Delivered
+439,2025-03-21,Delivered
+440,2025-03-20,Pending
+441,2025-03-17,Delivered
+442,2025-03-25,In Transit
+443,2025-03-22,In Transit
+444,2025-03-28,In Transit
+445,2025-03-26,Pending
+446,2025-03-22,Delivered
+447,2025-03-25,Delivered
+448,2025-03-26,Delivered
+449,2025-03-28,Delivered
+450,2025-03-31,Delivered
+451,2025-04-02,Delivered
+452,2025-03-31,In Transit
+453,2025-04-03,Delivered
+454,2025-03-30,Delivered
+455,2025-04-07,Delivered
+456,2025-04-07,Delivered
+457,2025-04-10,Delivered
+458,2025-04-05,In Transit
+459,2025-04-05,Delivered
+460,2025-04-05,In Transit
+461,2025-04-08,Delivered
+462,2025-04-11,In Transit
+463,2025-04-09,Delivered
+464,2025-04-11,Delivered
+465,2025-04-13,Delivered
+466,2025-04-17,In Transit
+467,2025-04-14,Delivered
+468,2025-04-21,Delivered
+469,2025-04-21,Pending
+470,2025-04-18,In Transit
+471,2025-04-16,Delivered
+472,2025-04-17,In Transit
+473,2025-04-18,Delivered
+474,2025-04-19,Delivered
+475,2025-04-27,Delivered
+476,2025-04-23,Pending
+477,2025-04-27,Pending
+478,2025-04-25,Delivered
+479,2025-04-28,Delivered
+480,2025-05-01,Delivered
+481,2025-04-27,Pending
+482,2025-05-02,Pending
+483,2025-05-03,Delivered
+484,2025-05-01,In Transit
+485,2025-05-05,In Transit
+486,2025-05-05,Delivered
+487,2025-05-03,Delivered
+488,2025-05-11,Delivered
+489,2025-05-11,Delivered
+490,2025-05-07,Delivered
+491,2025-05-13,Delivered
+492,2025-05-15,Pending
+493,2025-05-10,Delivered
+494,2025-05-11,Delivered
+495,2025-05-11,Delivered
+496,2025-05-18,Delivered
+497,2025-05-12,Delivered
+498,2025-05-20,Delivered
+499,2025-05-20,Delivered
+500,2025-05-21,Delivered
+501,2025-05-18,Delivered
+502,2025-05-17,Delivered
+503,2025-05-21,In Transit
+504,2025-05-27,Delivered
+505,2025-05-24,Delivered
+506,2025-05-21,In Transit
+507,2025-05-26,Delivered
+508,2025-05-30,Delivered
+509,2025-05-31,In Transit
+510,2025-05-29,Delivered
+511,2025-06-03,Delivered
+512,2025-05-27,In Transit
+513,2025-05-31,In Transit
+514,2025-05-31,Pending
+515,2025-05-31,Delivered
+516,2025-06-07,Delivered
+517,2025-06-07,Delivered
+518,2025-06-10,Delivered
+519,2025-06-04,Delivered
+520,2025-06-07,Delivered
+521,2025-06-10,Pending
+522,2025-06-08,Delivered
+523,2025-06-14,Delivered
+524,2025-06-10,Delivered
+525,2025-06-10,Delivered
+526,2025-06-12,Delivered
+527,2025-06-16,Delivered
+528,2025-06-13,Delivered
+529,2025-06-20,Delivered
+530,2025-06-14,In Transit
+531,2025-06-21,In Transit
+532,2025-06-17,Delivered
+533,2025-06-22,Delivered
+534,2025-06-19,In Transit
+535,2025-06-20,In Transit
+536,2025-06-27,Delivered
+537,2025-06-22,In Transit
+538,2025-06-28,Delivered
+539,2025-06-25,In Transit
+540,2025-07-01,Pending
+541,2025-07-01,Delivered
+542,2025-07-03,In Transit
+543,2025-07-03,Delivered
+544,2025-07-03,Pending
+545,2025-07-05,Delivered
+546,2025-07-04,In Transit
+547,2025-07-07,Delivered
+548,2025-07-02,Delivered
+549,2025-07-03,Delivered
+550,2025-07-12,Pending
+551,2025-07-09,In Transit
+552,2025-07-10,In Transit
+553,2025-07-09,Pending
+554,2025-07-12,Delivered
+555,2025-07-11,Delivered
+556,2025-07-18,Delivered
+557,2025-07-19,Delivered
+558,2025-07-17,Delivered
+559,2025-07-13,Delivered
+560,2025-07-20,Delivered
+561,2025-07-21,Delivered
+562,2025-07-19,Delivered
+563,2025-07-24,Delivered
+564,2025-07-23,Pending
+565,2025-07-22,In Transit
+566,2025-07-23,Pending
+567,2025-07-22,Delivered
+568,2025-07-23,Delivered
+569,2025-07-26,In Transit
+570,2025-07-28,Delivered
+571,2025-08-01,Delivered
+572,2025-07-31,Delivered
+573,2025-07-30,Delivered
+574,2025-08-03,Delivered
+575,2025-08-05,Delivered
+576,2025-07-31,Delivered
+577,2025-08-06,Delivered
+578,2025-08-02,Delivered
+579,2025-08-03,In Transit
+580,2025-08-10,Delivered
+581,2025-08-05,Delivered
+582,2025-08-13,In Transit
+583,2025-08-06,Delivered
+584,2025-08-15,Delivered
+585,2025-08-08,Delivered
+586,2025-08-10,Delivered
+587,2025-08-15,Delivered
+588,2025-08-16,In Transit
+589,2025-08-12,Delivered
+590,2025-08-19,Delivered
+591,2025-08-21,Delivered
+592,2025-08-16,Delivered
+593,2025-08-23,Delivered
+594,2025-08-25,Delivered
+595,2025-08-23,Delivered
+596,2025-08-23,Delivered
+597,2025-08-28,Delivered
+598,2025-08-29,Delivered
+599,2025-08-22,In Transit
+600,2025-08-25,Delivered
+601,2025-09-01,Delivered
+602,2025-08-26,Delivered
+603,2025-08-29,In Transit
+604,2025-08-30,Delivered
+605,2025-08-29,Delivered
+606,2025-08-31,In Transit
+607,2025-09-01,In Transit
+608,2025-08-31,Delivered
+609,2025-09-06,Delivered
+610,2025-09-09,In Transit
+611,2025-09-05,Pending
+612,2025-09-08,In Transit
+613,2025-09-05,Delivered
+614,2025-09-12,Delivered
+615,2025-09-07,Delivered
+616,2025-09-16,In Transit
+617,2025-09-16,Delivered
+618,2025-09-16,Delivered
+619,2025-09-17,In Transit
+620,2025-09-16,Delivered
+621,2025-09-17,In Transit
+622,2025-09-18,Delivered
+623,2025-09-15,Delivered
+624,2025-09-23,Delivered
+625,2025-09-17,In Transit
+626,2025-09-21,Delivered
+627,2025-09-27,Delivered
+628,2025-09-28,Pending
+629,2025-09-25,Delivered
+630,2025-09-25,Delivered
+631,2025-09-25,Delivered
+632,2025-09-26,Delivered
+633,2025-09-29,Delivered
+634,2025-09-26,Delivered
+635,2025-10-01,Delivered
+636,2025-10-03,Delivered
+637,2025-10-05,Delivered
+638,2025-10-08,Delivered
+639,2025-10-03,Delivered
+640,2025-10-03,Delivered
+641,2025-10-05,Delivered
+642,2025-10-12,Delivered
+643,2025-10-11,Delivered
+644,2025-10-14,In Transit
+645,2025-10-08,Delivered
+646,2025-10-12,Pending
+647,2025-10-12,Pending
+648,2025-10-11,Delivered
+649,2025-10-19,Delivered
+650,2025-10-20,Delivered
+651,2025-10-18,In Transit
+652,2025-10-19,Delivered
+653,2025-10-22,Delivered
+654,2025-10-21,Delivered
+655,2025-10-17,In Transit
+656,2025-10-21,In Transit
+657,2025-10-25,Delivered
+658,2025-10-21,Delivered
+659,2025-10-29,Delivered
+660,2025-10-29,Delivered
+661,2025-10-30,In Transit
+662,2025-10-30,Delivered
+663,2025-10-28,Delivered
+664,2025-10-27,Delivered
+665,2025-10-29,In Transit
+666,2025-11-02,In Transit
+667,2025-11-02,Delivered
+668,2025-11-06,In Transit
+669,2025-11-05,Delivered
+670,2025-11-06,Delivered
+671,2025-11-02,Delivered
+672,2025-11-06,Delivered
+673,2025-11-08,Delivered
+674,2025-11-07,Pending
+675,2025-11-14,Delivered
+676,2025-11-07,Delivered
+677,2025-11-13,Delivered
+678,2025-11-14,Delivered
+679,2025-11-14,Pending
+680,2025-11-15,Delivered
+681,2025-11-16,Delivered
+682,2025-11-18,In Transit
+683,2025-11-21,Delivered
+684,2025-11-16,Delivered
+685,2025-11-21,Delivered
+686,2025-11-17,Delivered
+687,2025-11-21,Pending
+688,2025-11-21,In Transit
+689,2025-11-28,Delivered
+690,2025-11-23,In Transit
+691,2025-11-27,Delivered
+692,2025-11-23,Delivered
+693,2025-11-29,Delivered
+694,2025-11-28,Delivered
+695,2025-12-03,Delivered
+696,2025-12-05,Delivered
+697,2025-12-01,Pending
+698,2025-12-04,Delivered
+699,2025-11-30,Delivered
+700,2025-12-04,Delivered
+701,2025-12-08,Delivered
+702,2025-12-03,Delivered
+703,2025-12-11,Delivered
+704,2025-12-10,In Transit
+705,2025-12-10,Delivered
+706,2025-12-15,Delivered
+707,2025-12-09,Delivered
+708,2025-12-13,Delivered
+709,2025-12-15,Delivered
+710,2025-12-17,In Transit
+711,2025-12-16,Delivered
+712,2025-12-21,Delivered
+713,2025-12-14,Delivered
+714,2025-12-21,Delivered
+715,2025-12-22,Delivered
+716,2025-12-20,In Transit
+717,2025-12-26,Delivered
+718,2025-12-23,In Transit
+719,2025-12-23,Delivered
+720,2025-12-27,In Transit
+721,2025-12-25,Delivered
+722,2025-12-25,Delivered
+723,2026-01-01,Delivered
+724,2026-01-01,Pending
+725,2025-12-26,Delivered
+726,2026-01-02,Delivered
+727,2026-01-05,Delivered
+728,2026-01-05,In Transit
+729,2026-01-06,Delivered
+730,2026-01-05,In Transit
+731,2026-01-04,Delivered
+732,2026-01-09,Delivered
+733,2026-01-05,Delivered
+734,2026-01-12,Pending
+735,2026-01-06,Delivered
+736,2026-01-07,Pending
+737,2026-01-13,Delivered
+738,2026-01-11,Delivered
+739,2026-01-16,Delivered
+740,2026-01-18,Delivered
+741,2026-01-17,In Transit
+742,2026-01-16,Pending
+743,2026-01-20,In Transit
+744,2026-01-17,In Transit
+745,2026-01-16,Delivered
+746,2026-01-21,Delivered
+747,2026-01-25,Pending
+748,2026-01-18,Delivered
+749,2026-01-25,In Transit
+750,2026-01-28,In Transit
+751,2026-01-29,Delivered
+752,2026-01-24,Pending
+753,2026-01-27,Delivered
+754,2026-01-31,Delivered
+755,2026-02-01,Delivered
+756,2026-01-29,Delivered
+757,2026-01-27,Delivered
+758,2026-01-28,Delivered
+759,2026-02-01,In Transit
+760,2026-02-04,Pending
+761,2026-02-07,Delivered
+762,2026-02-06,Delivered
+763,2026-02-10,Pending
+764,2026-02-11,Delivered
+765,2026-02-05,Delivered
+766,2026-02-05,Delivered
+767,2026-02-07,Delivered
+768,2026-02-11,Delivered
+769,2026-02-11,Pending
+770,2026-02-12,Delivered
+771,2026-02-18,Delivered
+772,2026-02-18,Delivered
+773,2026-02-17,Delivered
+774,2026-02-13,Delivered
+775,2026-02-15,In Transit
+776,2026-02-20,In Transit
+777,2026-02-17,Delivered
+778,2026-02-21,Pending
+779,2026-02-22,In Transit
+780,2026-02-24,In Transit
+781,2026-02-25,Delivered
+782,2026-02-26,Delivered
+783,2026-02-23,Delivered
+784,2026-02-25,Delivered
+785,2026-03-01,Delivered
+786,2026-03-04,Delivered
+787,2026-02-26,In Transit
+788,2026-02-27,In Transit
+789,2026-03-01,Pending
+790,2026-03-06,Delivered
+791,2026-03-10,Delivered
+792,2026-03-06,Delivered
+793,2026-03-06,Delivered
+794,2026-03-12,Delivered
+795,2026-03-14,Delivered
+796,2026-03-11,Delivered
+797,2026-03-16,In Transit
+798,2026-03-10,Delivered
+799,2026-03-12,In Transit
+800,2026-03-17,Delivered
+801,2026-03-18,Delivered
+802,2026-03-18,Delivered
+803,2026-03-19,Delivered
+804,2026-03-16,Delivered
+805,2026-03-21,Delivered
+806,2026-03-20,Delivered
+807,2026-03-20,Delivered
+808,2026-03-20,Delivered
+809,2026-03-20,Pending
+810,2026-03-25,Delivered
+811,2026-03-23,In Transit
+812,2026-03-24,Delivered
+813,2026-03-30,Pending
+814,2026-04-01,In Transit
+815,2026-04-02,Delivered
+816,2026-03-30,Delivered
+817,2026-03-28,In Transit
+818,2026-04-04,Delivered
+819,2026-03-30,Delivered
+820,2026-04-03,Delivered
+821,2026-04-08,In Transit
+822,2026-04-03,In Transit
+823,2026-04-08,Delivered
+824,2026-04-09,Delivered
+825,2026-04-13,Delivered
+826,2026-04-10,Delivered
+827,2026-04-10,Pending
+828,2026-04-12,Delivered
+829,2026-04-13,Delivered
+830,2026-04-17,Delivered
+831,2026-04-18,In Transit
+832,2026-04-13,Delivered
+833,2026-04-19,Delivered
+834,2026-04-21,Delivered
+835,2026-04-20,Delivered
+836,2026-04-20,Delivered
+837,2026-04-25,Delivered
+838,2026-04-20,Delivered
+839,2026-04-22,Pending
+840,2026-04-28,In Transit
+841,2026-04-26,Pending
+842,2026-04-29,Delivered
+843,2026-04-29,Pending
+844,2026-04-25,Delivered
+845,2026-04-27,Delivered
+846,2026-04-26,Delivered
+847,2026-05-05,Delivered
+848,2026-05-04,Delivered
+849,2026-04-29,Delivered
+850,2026-05-02,Delivered
+851,2026-05-04,Delivered
+852,2026-05-05,Delivered
+853,2026-05-07,Delivered
+854,2026-05-06,Delivered
+855,2026-05-07,In Transit
+856,2026-05-06,In Transit
+857,2026-05-13,Delivered
+858,2026-05-08,Delivered
+859,2026-05-10,Delivered
+860,2026-05-13,In Transit
+861,2026-05-14,Delivered
+862,2026-05-16,Delivered
+863,2026-05-14,Delivered
+864,2026-05-17,Delivered
+865,2026-05-15,Delivered
+866,2026-05-17,In Transit
+867,2026-05-17,Delivered
+868,2026-05-21,Delivered
+869,2026-05-22,In Transit
+870,2026-05-26,In Transit
+871,2026-05-29,Delivered
+872,2026-05-30,Delivered
+873,2026-05-27,Delivered
+874,2026-05-24,Pending
+875,2026-05-25,Delivered
+876,2026-05-31,Pending
+877,2026-05-28,Delivered
+878,2026-06-04,Delivered
+879,2026-06-06,Delivered
+880,2026-06-02,Delivered
+881,2026-06-04,Delivered
+882,2026-06-08,Delivered
+883,2026-06-04,Delivered
+884,2026-06-07,Pending
+885,2026-06-06,Delivered
+886,2026-06-07,In Transit
+887,2026-06-08,Delivered
+888,2026-06-13,Delivered
+889,2026-06-14,Delivered
+890,2026-06-15,Delivered
+891,2026-06-17,Pending
+892,2026-06-15,Delivered
+893,2026-06-16,Delivered
+894,2026-06-16,Delivered
+895,2026-06-20,Delivered
+896,2026-06-18,Delivered
+897,2026-06-17,In Transit
+898,2026-06-20,In Transit
+899,2026-06-25,Delivered
+900,2026-06-27,Delivered
+901,2026-06-22,Delivered
+902,2026-06-27,Delivered
+903,2026-06-30,Delivered
+904,2026-06-26,Delivered
+905,2026-06-26,Delivered
+906,2026-06-29,Delivered
+907,2026-06-26,Delivered
+908,2026-06-29,Delivered
+909,2026-07-05,Delivered
+910,2026-07-06,Delivered
+911,2026-07-03,In Transit
+912,2026-07-02,Delivered
+913,2026-07-09,Delivered
+914,2026-07-10,Delivered
+915,2026-07-07,In Transit
+916,2026-07-07,Delivered
+917,2026-07-07,Delivered
+918,2026-07-15,Delivered
+919,2026-07-08,In Transit
+920,2026-07-15,Pending
+921,2026-07-14,Delivered
+922,2026-07-18,In Transit
+923,2026-07-15,Pending
+924,2026-07-19,Pending
+925,2026-07-18,Delivered
+926,2026-07-19,Delivered
+927,2026-07-24,Delivered
+928,2026-07-25,In Transit
+929,2026-07-26,Delivered
+930,2026-07-24,Delivered
+931,2026-07-25,Delivered
+932,2026-07-25,In Transit
+933,2026-07-30,In Transit
+934,2026-07-30,Delivered
+935,2026-07-30,In Transit
+936,2026-07-31,Delivered
+937,2026-07-31,In Transit
+938,2026-07-31,Delivered
+939,2026-07-31,Delivered
+940,2026-07-31,Pending
+941,2026-08-01,Delivered
+942,2026-08-05,In Transit
+943,2026-08-04,Delivered
+944,2026-08-07,Delivered
+945,2026-08-05,Delivered
+946,2026-08-07,Delivered
+947,2026-08-13,Delivered
+948,2026-08-10,Delivered
+949,2026-08-13,Delivered
+950,2026-08-09,Delivered
+951,2026-08-13,Pending
+952,2026-08-18,Pending
+953,2026-08-13,Delivered
+954,2026-08-20,In Transit
+955,2026-08-18,Delivered
+956,2026-08-17,Delivered
+957,2026-08-21,In Transit
+958,2026-08-23,Pending
+959,2026-08-22,Delivered
+960,2026-08-22,In Transit
+961,2026-08-24,Delivered
+962,2026-08-24,Pending
+963,2026-08-28,Delivered
+964,2026-08-22,Delivered
+965,2026-08-29,Delivered
+966,2026-08-25,Delivered
+967,2026-09-02,Delivered
+968,2026-08-26,Pending
+969,2026-09-01,Delivered
+970,2026-09-05,Delivered
+971,2026-08-29,Delivered
+972,2026-09-02,Delivered
+973,2026-09-03,Delivered
+974,2026-09-09,Delivered
+975,2026-09-06,Delivered
+976,2026-09-07,Delivered
+977,2026-09-09,Delivered
+978,2026-09-05,In Transit
+979,2026-09-06,In Transit
+980,2026-09-15,Delivered
+981,2026-09-10,Delivered
+982,2026-09-12,Delivered
+983,2026-09-10,Delivered
+984,2026-09-19,Delivered
+985,2026-09-19,Delivered
+986,2026-09-14,Delivered
+987,2026-09-21,Delivered
+988,2026-09-21,Delivered
+989,2026-09-21,In Transit
+990,2026-09-17,Pending
+991,2026-09-24,Delivered
+992,2026-09-25,Delivered
+993,2026-09-28,In Transit
+994,2026-09-21,Pending
+995,2026-09-23,Delivered
+996,2026-10-01,Delivered
+997,2026-10-02,Delivered
+998,2026-09-30,Delivered
+999,2026-10-01,Delivered
+1000,2026-09-30,Delivered
