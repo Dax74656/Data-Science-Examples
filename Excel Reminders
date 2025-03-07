@@ -1,0 +1,43 @@
+IF(Column>Days, "Late", "On Time")	Checks a condition and returns one of two values.
+DAYS(Columns Date 2, Column Date 1)	Calculates the difference in days between two dates.
+SUMIF(Column1:Column2, "W001", Column3:Column4)	Sums values based on a condition.
+AVERAGE(Firstrow:Lastrow)	Calculates the mean of a range.
+FORECAST.LINEAR(6, Firstrow:Lastrow, Firstrow:Lastrow2ndColumn)	Predicts a future value using linear regression.
+=COUNTIF(A:A, "W001")	Counts how many times "W001" appears in column A.
+=VLOOKUP(1001, A2:C100, 2, FALSE)	Searches for 1001 in column A and returns the corresponding value from column 2. FALSE ensures an exact match.
+=HLOOKUP(6, A1:G2, 2, FALSE)	Looks for 6 in row 1 and returns the corresponding value from row 2.
+=INDEX(B2:B100, MATCH(1001, A2:A100, 0))	Finds 1001 in column A and returns the corresponding value from column B. More flexible and faster than VLOOKUP.
+=TEXTJOIN(", ", TRUE, A2:A5)	Joins values in A2:A5 with commas (, ) between them. Example Output: "Warehouse A, Warehouse B, Warehouse C"
+=CONCAT(A2, " - ", B2)	Combines text from A2 and B2 with " - " in between.
+
+Applying formula to column
+Enter a formula in the first row.
+Double-click the bottom-right corner of the cell.
+Excel fills the column until it reaches the last adjacent row.
+
+Pivot Table in Excel
+Step 1: Select Your Data
+Click anywhere in your dataset (e.g., A1:D100).
+Make sure your data has column headers.
+Step 2: Insert Pivot Table
+Go to the Insert tab → Click PivotTable.
+Choose where to place the Pivot Table:
+New Worksheet (recommended) OR Existing Worksheet.
+Step 3: Select Fields to Analyze
+A PivotTable Fields window will appear.
+Drag and drop:
+Rows: Warehouse Name (e.g., warehouse_name).
+Values: Sum of Orders (e.g., total_orders).
+Columns (Optional): Order Status (status).
+Step 4: Apply Filters
+Add a Filter (e.g., only show "Delivered" orders).
+Right-click → Sort Largest to Smallest for quick insights.
+
+Data-> Remove Duplicates-> Choose Columns
+
+Missing Data
+Count missing cells: =COUNTBLANK(A:A)
+Fill With Average: =IF(B2="", AVERAGE(B:B), B2)
+ctrl + H to find and replace
+ctrl + G-> Special-> Blanks-> Ok (=cell above) ctrl + Enter
+Data-> Filter-> Select All-> (Blanks)-> then delete
